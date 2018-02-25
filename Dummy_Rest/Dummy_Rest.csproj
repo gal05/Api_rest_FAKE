@@ -247,6 +247,7 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\InfoClientController.cs" />
+    <Compile Include="Controllers\OtrosIngresosController.cs" />
     <Compile Include="Controllers\Recaudacion_puestoController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
@@ -256,6 +257,8 @@
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\ClientInfo.cs" />
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\OtrosIngresosJs\Cuerpo.cs" />
+    <Compile Include="Models\OtrosIngresosJs\OtrosIngresos.cs" />
     <Compile Include="Models\RecaudacionPuesto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Providers\ApplicationOAuthProvider.cs" />
